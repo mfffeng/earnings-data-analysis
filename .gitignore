@@ -1,0 +1,5 @@
+*.o
+FinalProject
+tmp*
+log.txt
+test.txt
